@@ -32,4 +32,4 @@ PDF files of presentations I have given across the course of my PhD
 * [Latent Crohn’s Disease Subgroups are Identified by Longitudinal Biomarker Profiles](Precision-Medicine.pdf)
   was given to other third-year Precision Medicine doctoral training programme
   students. This talk discussed my
-  [manuscript of the same name](https://doi.org/10.1101/2022.08.16.22278320)
+  [manuscript of the same name](https://doi.org/10.1101/2022.08.16.22278320).
